@@ -8,5 +8,6 @@ public class Writer {
     String outputText = "Developer, by Grace";
     write.write(outputText);
     write.close();
+    
   }
 }
